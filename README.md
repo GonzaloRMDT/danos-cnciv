@@ -10,7 +10,7 @@ Este repositorio contiene datos de jurisprudencia de cuantificación de daños d
 
 Los datos originales fueron relevados de la [web oficial de la Cámara Nacional de Apelaciones en lo Civil](http://consultas.pjn.gov.ar/cuantificacion/civil/index.php).
 
-Estas bases de datos fueron reconstruidas para la realización del trabajo académico ["Reconstrucción y análisis de las bases de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil"](/doc/articulo.pdf).
+Estas bases de datos fueron reconstruidas para la realización del trabajo académico ["Reconstrucción y análisis de las bases de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil"](/doc/ramirez-munoz-de-toro.pdf).
 
 El trabajo aquí presentado consta de diversos *datasets*, a saber:
 - Lesiones
@@ -31,7 +31,7 @@ El trabajo aquí presentado consta de diversos *datasets*, a saber:
 ![Siniestros causantes de fallecimientos por sexo y edad](/img/fallecimientos.png "Siniestros causantes de fallecimientos por sexo y edad")
 
 ## Citación sugerida
-Estos *datasets* fueron realizados en el marco del trabajo académico que se adjunta con este repositorio y que puede consultarse [aquí](/doc/articulo.pdf). Por ello, se sugiere utilizar la siguiente cita tanto para referirse al trabajo como a los *datasets*:
+Estos *datasets* fueron realizados en el marco del trabajo académico que se adjunta con este repositorio y que puede consultarse [aquí](/doc/ramirez-munoz-de-toro.pdf). Por ello, se sugiere utilizar la siguiente cita tanto para referirse al trabajo como a los *datasets*:
 
 > RAMÍREZ MUÑOZ de TORO, Gonzalo R., "Reconstrucción y análisis de la base de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil", 2018.
 
