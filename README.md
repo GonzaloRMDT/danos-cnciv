@@ -6,13 +6,19 @@ Reconstrucción y análisis de las bases de datos de jurisprudencia de cuantific
 
 ## Descripción general
 
-Este repositorio contiene datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil de la República Argentina. El mismo ha sido reconstruido por el autor mediante técnicas de *web scraping* y normalizado para la presentación que aquí se hace.
+Este repositorio contiene datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil de la República Argentina. Los mismos han sido relevados por el autor mediante técnicas de *web scraping* y normalizados para la presentación que aquí se hace. Asimismo, se acompaña el trabajo académico "Reconstrucción y análisis de la base de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil", para cuya realización fueron recolectados.
 
 Los datos originales fueron relevados de la [web oficial de la Cámara Nacional de Apelaciones en lo Civil](http://consultas.pjn.gov.ar/cuantificacion/civil/index.php).
 
-Estas bases de datos fueron reconstruidas para la realización del trabajo académico ["Reconstrucción y análisis de las bases de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil"](/doc/ramirez-munoz-de-toro.pdf).
+## Componentes
+Este repositorio se halla compuesto, en lo principal, por:
 
-El trabajo aquí presentado consta de diversos *datasets*, a saber:
+- Un trabajo académico, denominado "Reconstrucción y análisis de la base de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil", que puede encontrarse [aquí](/doc/ramirez-munoz-de-toro.pdf).
+- Diversos *datasets* de fallos de cuantificación de daños de la Cámara Nacional de Apelaciones en lo civil, que se adjuntan en dos presentaciones:
+    - Formato *.xlsx* (compatible con programas de hojas de cálculo como Microsoft Excel, Google Sheets, LibreOffice Calc, etc.), que se encuentra [aquí](/data/xlsx).
+    - Formato *.csv*, en diversos archivos que se encuentran [aquí](/data/csv).
+
+Por su parte, los *datasets* contienen jurisprudencia relativa a:
 - Lesiones
 - Fallecimientos
 - Daño extrapatrimonial
@@ -31,7 +37,7 @@ El trabajo aquí presentado consta de diversos *datasets*, a saber:
 ![Siniestros causantes de fallecimientos por sexo y edad](/img/fallecimientos.png "Siniestros causantes de fallecimientos por sexo y edad")
 
 ## Citación sugerida
-Estos *datasets* fueron realizados en el marco del trabajo académico que se adjunta con este repositorio y que puede consultarse [aquí](/doc/ramirez-munoz-de-toro.pdf). Por ello, se sugiere utilizar la siguiente cita tanto para referirse al trabajo como a los *datasets*:
+Estos *datasets* fueron realizados en el marco del trabajo académico que se adjunta con este repositorio y que puede consultarse [aquí](/doc/articulo.pdf). Por ello, se sugiere utilizar la siguiente cita tanto para referirse al trabajo como a los *datasets*:
 
 > RAMÍREZ MUÑOZ de TORO, Gonzalo R., "Reconstrucción y análisis de la base de datos de jurisprudencia de cuantificación de daños de la Cámara Nacional de Apelaciones en lo Civil", 2018.
 
